@@ -1,0 +1,161 @@
+{
+  "Firing_Rate": 0.005,
+  "Hertz": 20,
+  "Neuron": {
+    "Dendrites": {
+      "Compartments": [
+        {
+          "Synapses": [
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 0,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 7.707552201681119
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 1,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.999597348715584
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 2,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 0
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 3,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.999612591776486
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 4,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 0
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 5,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.999544787344835
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 6,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 0
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 7,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.999613118050767
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 8,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.997696979548625
+            },
+            {
+              "ama": 1.2,
+              "amb": 10.8,
+              "id": 9,
+              "mu": 1.0,
+              "lambda": 0.001,
+              "alpha": 1.01,
+              "learningRateFast": 0.32,
+              "learningRateSlow": 0.21,
+              "taoN": 33,
+              "taoP": 17,
+              "w": 9.999613118050767
+            }
+          ],
+          "id": 0
+        }
+      ],
+      "id": 0
+    },
+    "RefractoryPeriod": 3,
+    "Threshold": 47,
+    "id": 0,
+    "nFastSurge": 8,
+    "nSlowSurge": 8,
+    "ntao": 10,
+    "ntaoS": 50,
+    "wMax": 10,
+    "wMin": 0
+  },
+  "Poisson_Pattern_max": 300,
+  "Poisson_Pattern_min": 50,
+  "Poisson_Pattern_spread": 50,
+  "RefractoryPeriod": 3,
+  "StimulusScaler": 9,
+  "threshold": 47
+}

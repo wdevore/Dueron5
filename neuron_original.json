@@ -1,0 +1,9 @@
+{
+  "Duration": 2000,
+  "RangeEnd": 1000,
+  "RangeStart": 0,
+  "Stimulus": "stim_1",
+  "Synapse_Count": 10,
+  "weightMax": 10,
+  "weightMin": 0
+}

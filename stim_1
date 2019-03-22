@@ -1,0 +1,126 @@
+{
+  "Neuron": {
+    "Dendrites": {
+      "Compartments": [
+        {
+          "Synapses": [
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 0,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 1,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 2,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 3,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 4,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 5,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 9.75
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 6,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 7,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 8,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            },
+            {
+              "ama": 9.5,
+              "amb": 10.8,
+              "id": 9,
+              "taoN": 100,
+              "taoP": 60,
+              "tsw": 20,
+              "w": 10
+            }
+          ],
+          "id": 0
+        }
+      ],
+      "id": 0
+    },
+    "RefractoryPeriod": 3,
+    "Threshold": 63,
+    "id": 0,
+    "nSurge": 2,
+    "ntao": 50,
+    "ntsw": 20,
+    "taoN": 0,
+    "taoP": 0,
+    "wMax": 10,
+    "wMin": 0
+  },
+  "Poisson_Pattern_max": 300,
+  "Poisson_Pattern_min": 50,
+  "Poisson_Pattern_spread": 50,
+  "Poisson_max": 300,
+  "Poisson_min": 7,
+  "Poisson_spread": 50,
+  "RefractoryPeriod": 3,
+  "StimulusScaler": 4,
+  "nSurge": 2,
+  "ntao": 50,
+  "ntsw": 20,
+  "threshold": 63
+}
